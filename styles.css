@@ -1,0 +1,13 @@
+.textoVioleta {
+  color: blueviolet;
+}
+
+li {
+  background-color: rgb(135, 255, 197);
+  margin: 10px;
+}
+
+p {
+  background-color: rgb(255, 170, 251);
+  margin: 10px;
+}
